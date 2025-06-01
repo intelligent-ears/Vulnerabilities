@@ -1,4 +1,4 @@
-## 🛡️ Vulnerability Report: Unauthorized Data Insertion via Supabase API
+# 🛡️ Vulnerability Report: Unauthorized Data Insertion via Supabase API
 
 ### 📌 Title:  
 **Insecure Supabase Configuration Allows Unauthorized Data Insertion into `waiting_list` Table**
